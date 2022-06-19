@@ -1,0 +1,109 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: #2a2727;
+}
+.hp-empresa{
+    width: 100%;
+    background-color: #0d0a0a;
+    height: 60px;
+}
+.image1{
+    height: 60px;
+}
+main, .content{
+    margin: 0 auto;
+    width: 980px;
+    position: relative;
+}
+.harry-urls ul li {
+    margin-left: 25px;
+    display: inline-block;
+    list-style: none;
+}
+.logo{
+    width: 70%;
+    float: left;
+}
+.harry-urls{
+    width: 25%;
+    float: right;
+}
+.header-2{
+    background-color: #2a2727;
+    width: 980px;
+    margin: 0 auto;
+    padding: 16px;
+}
+.hp1 ul li{
+    display: inline-block;
+    color: #818181;
+    margin-left: 15px;
+    height: 50px;
+}
+.hp1 ul li :hover{
+    border-bottom: 3px solid #00bac6;
+}
+.hp1 ul li a:hover{
+    color: #00bac6;
+}
+.hp1 ul li a{
+    color: #8b8b8b;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.harry{
+    width: 70%; 
+    float: left;
+}
+.col-100{
+    width: 100%;
+    float: left;
+    position: relative;
+}
+ul{
+    padding: 0px !important;
+}
+.texto-destaque{
+    text-align: center;
+}
+.texto-destaque h1{
+    color: #f8f8f8;
+    font-size: 60px;
+    text-transform: uppercase;
+}
+.texto-destaque strong{
+    color: #f8f8f8;
+}
+.texto-destaque p{
+    color: #f8f8f8;
+    font-size: 20px;
+}
+.col-3{
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 29%;
+    float: left;
+    position: relative;
+}
+.bloco-texto{
+    margin-top: 4em;
+}
+h3{
+    font-weight: normal !important;
+}
+.col-4{
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+.logo._footer{
+    left: 60px;
+    padding: 2px;
+    margin-left: -90px;
+}
+.col-4 ing{
+    margin:0 auto;
+} 
